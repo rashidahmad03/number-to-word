@@ -1,2 +1,2 @@
 # number-to-word
-it changw interger to string in word format
+it change interger to string in word format
